@@ -1,6 +1,6 @@
 ### Hi there, I'm Nico Schiering 👋
 
-Working as a Cloud Solution Architect at [Microsoft](https://careers.microsoft.com/).
+Working as a Cloud Solution Architect at&nbsp;&nbsp;<img style="display: inline; height: 1em; width: auto;" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="logo" /> Microsoft.
 
 <br>
 <p>
