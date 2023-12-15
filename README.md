@@ -9,8 +9,10 @@ Working as a Cloud Solution Architect at&nbsp;&nbsp;<img style="display: inline;
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go" width="30" height="30" />
-    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="30" height="30" />
+    
 </p>
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nico-schiering/)!
