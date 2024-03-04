@@ -1,5 +1,3 @@
-![GitHub Contributions](https://raw.githubusercontent.com/L480/L480/dynamic-assets/github-contribution-grid-snake.svg "GitHub Contributions")
-
 ### Hi there, I'm Nico Schiering 👋
 
 Working as a Cloud Solution Architect at&nbsp;&nbsp;<img style="display: inline; height: 1em; width: auto;" src="./images/microsoft-icon.svg" alt="Microsoft Icon" /> Microsoft.
@@ -19,3 +17,5 @@ Working as a Cloud Solution Architect at&nbsp;&nbsp;<img style="display: inline;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L480&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nico-schiering/)!
+
+![GitHub Contributions](https://raw.githubusercontent.com/L480/L480/dynamic-assets/github-contribution-grid-snake.svg "GitHub Contributions")
