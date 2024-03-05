@@ -18,4 +18,6 @@ Working as a Cloud Solution Architect at&nbsp;&nbsp;<img style="display: inline;
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nico-schiering/)!
 
+---
+
 ![GitHub Contributions](https://raw.githubusercontent.com/L480/L480/dynamic-assets/github-contribution-grid-snake.svg "GitHub Contributions")
