@@ -10,6 +10,7 @@ I'm working as a Cloud Solution Architect at&nbsp;&nbsp;<img style="display: inl
     <img src="./images/python-icon.svg" alt="Python" width="30" height="30" alt="Python Icon" />
     <img src="./images/golang-icon.svg" alt="Go" width="30" height="30" alt="Go Icon" />
     <img src="./images/javascript-icon.svg" alt="Javascript" width="30" height="30" alt="Javascript Icon" />
+    <img src="./images/typescriptlang-icon.svg" alt="Javascript" width="30" height="30" alt="TypeScript Icon" />
     <img src="./images/gnu_bash-icon.svg" alt="Bash" width="30" height="30" alt="Bash Icon" />
     <img src="./images/cloudflare-icon.svg" alt="Cloudflare" width="30" height="30" alt="Cloudflare Icon" />
 </p>
