@@ -1,6 +1,6 @@
 ### Hi there, I'm Nico.
 
-I'm working as a Cloud Solution Architect at&nbsp;&nbsp;<img style="display: inline; height: 1em; width: auto;" src="./images/microsoft-icon.svg" alt="Microsoft Icon" /> Microsoft.
+I'm working as a Cloud Consultant at NR13 GmbH.
 
 <p>
     <img src="./images/microsoft_azure-icon.svg" alt="Azure" width="30" height="30" alt="Azure Icon" />
