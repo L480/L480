@@ -1,8 +1,6 @@
-<h1 align="center">Hi there, I'm Nico</h1>
+<h1>Hi there, I'm Nico</h1>
 
-<p align="center">I'm working as a Cloud-Native Infrastructure Consultant at NR13 GmbH.</a>
-
-<p align="center">
+<p>
     <img src="./images/microsoft_azure-icon.svg" width="30" height="30" alt="Azure Icon" />
     <img src="./images/terraformio-icon.svg" width="30" height="30" alt="Terraform Icon" />
     <img src="./images/kubernetes-icon.svg" width="30" height="30" alt="Kubernetes Icon" />
@@ -15,6 +13,6 @@
     <img src="./images/cloudflare-icon.svg" width="30" height="30" alt="Cloudflare Icon" />
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L480&layout=compact" alt="Top Langs"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L480&layout=compact" alt="Top Langs"/></p>
 
-<p align="center">Connect with me on <a href="https://www.linkedin.com/in/nico-schiering/">LinkedIn</a>.</p>
+<p>Connect with me on <a href="https://www.linkedin.com/in/nico-schiering/">LinkedIn</a>.</p>
