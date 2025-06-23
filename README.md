@@ -11,6 +11,7 @@
     <img src="./images/typescriptlang-icon.svg" width="30" height="30" alt="TypeScript Icon" />
     <img src="./images/gnu_bash-icon.svg" width="30" height="30" alt="Bash Icon" />
     <img src="./images/cloudflare-icon.svg" width="30" height="30" alt="Cloudflare Icon" />
+    <img src="./images/grafana-icon.svg" width="30" height="30" alt="Grafana Icon" />
 </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L480&layout=compact" alt="Top Langs"/></p>
