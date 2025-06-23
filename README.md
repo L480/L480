@@ -15,4 +15,4 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L480&layout=compact" alt="Top Langs"/></p>
 
-<p>Connect with me on <a href="https://www.linkedin.com/in/nico-schiering/">LinkedIn</a>.</p>
+<p>Connect with me on <a href="https://www.linkedin.com/in/-nico/">LinkedIn</a>.</p>
