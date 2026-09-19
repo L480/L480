@@ -1,6 +1,6 @@
-<h1>Hi there, I'm Nico</h1>
+<h1>Hi, I'm Nico.</h1>
 
-Working as a Solutions Engineer at Grafana Labs.
+I'm a Solutions Engineer at Grafana Labs.
 
 <p>
     <img src="./images/grafana-icon.svg" width="30" height="30" alt="Grafana Icon" />
